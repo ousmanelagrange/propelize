@@ -29,5 +29,5 @@ Ce projet est une application de location de véhicules pour Propelize, impléme
 
 ### Cloner le dépôt
 ```bash
-git clone https://github.com/USERNAME/propelize.git
+git clone https://github.com/ousmanelagrange/propelize.git
 cd propelize
